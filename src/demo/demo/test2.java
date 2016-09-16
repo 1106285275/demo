@@ -14,7 +14,7 @@ class demo33 {
 		list.add(3);
 		list.add(4);
 		list.remove(1);
-		System.out.println(list.get(1));
+		System.out.println(list.get(222));
 	}
 	
 
